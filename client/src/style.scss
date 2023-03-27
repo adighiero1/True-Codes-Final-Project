@@ -1,0 +1,59 @@
+$themes: (
+  //creating theme for darkmode and lightmode
+  light:
+    (
+      textColor: #000,
+      bg: white,
+      logo: darkblue,
+      bgSoft: #f6f3f3,
+      textColorSoft: #555,
+      border: lightgray,
+    ),
+  dark: (
+    textColor: whitesmoke,
+    bg: #222,
+    logo: white,
+    bgSoft: #333,
+    textColorSoft: lightgray,
+    border: #444,
+  )
+);
+
+@mixin themify($themes) {
+  //taking our themese
+  @each $theme, $map in $themes {
+    // for each theme light or dark we change our childs theme
+    .theme-#{$theme} & {
+      //acording to theme name its going to map through the main div in layout and reach nav bar left bar etc
+      $theme-map: () !global;
+      @each $key, $submap in $map {
+        $value: map-get(map-get($themes, $theme), "#{$key}");
+        $theme-map: map-merge(
+          $theme-map,
+          (
+            $key: $value,
+          )
+        ) !global;
+      }
+      @content;
+      $theme-map: null !global;
+    }
+  }
+}
+
+@function themed($key) {
+  @return map-get($theme-map, $key);
+}
+
+@mixin mobile {
+  @media (max-width: 480px) {
+    //media query condition for max with 480
+    @content; // from 0 to 480px width we will apply this content
+  }
+}
+@mixin tablet {
+  @media (max-width: 960px) {
+    //media query condition for max with 960
+    @content; //from 481 to 960px we will apply this conent
+  }
+} //these queries will be used in all our scss files
