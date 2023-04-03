@@ -9,7 +9,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <span>Jane Doe</span>
@@ -22,7 +22,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <span>Jane Doe</span>
@@ -38,7 +38,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <p>
@@ -50,7 +50,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <p>
@@ -62,7 +62,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <p>
@@ -74,7 +74,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <p>
@@ -89,7 +89,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <div className="online" />
@@ -99,7 +99,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <div className="online" />
@@ -109,7 +109,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <div className="online" />
@@ -119,7 +119,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <div className="online" />
@@ -129,7 +129,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <div className="online" />
@@ -139,7 +139,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <div className="online" />
@@ -149,7 +149,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <div className="online" />
@@ -159,7 +159,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <div className="online" />
@@ -169,7 +169,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <div className="online" />
@@ -179,7 +179,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <div className="online" />
@@ -189,7 +189,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://studyfinds.org/wp-content/uploads/2019/07/AdobeStock_145075745-816x520.jpeg"
                 alt=""
               />
               <div className="online" />

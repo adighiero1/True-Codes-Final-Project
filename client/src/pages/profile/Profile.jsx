@@ -71,9 +71,9 @@ const Profile = () => {
         <>
           <div className="images">
             {/*setting upload file to be displayed as cover picture */}
-            <img src={"/upload/" + data.coverPic} alt="" className="cover" />
+            <img src={"/upload/" + data.profilePic} alt="" className="cover" />
             <img
-              src={"/upload/" + data.profilePic}
+              src={"/upload/" + data.coverPic}
               alt=""
               className="profilePic"
             />
